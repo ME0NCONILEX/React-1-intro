@@ -1,6 +1,3 @@
-# React-1-intro
-My pic-React-Project 'without fogg'
-
 # ME0NCONILEX  - (from [React documentation](https://reactjs.org/)) Getting Started with Create React App
 
 This project was bootstrapped with Create React App
@@ -43,3 +40,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### `npm run build` fails to minify
+
